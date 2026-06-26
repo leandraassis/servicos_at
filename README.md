@@ -33,3 +33,10 @@ API REST para gerenciamento de pacientes, médicos e consultas, construída com 
 ```
 https://servicos-at.onrender.com/actuator/health
 ```
+
+#### Acesse o Swagger UI para explorar e testar os endpoints:
+
+```
+https://servicos-at.onrender.com/swagger-ui/index.html
+```
+> **Aviso:** A aplicação está hospedada no plano gratuito do Render. O primeiro acesso pode levar até cerca de 1 minuto devido ao cold start.
